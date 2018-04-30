@@ -1,2 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 it creates .git hidden folder to store history of changes there.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It lets to combine files for commiting and check them before comitting
+
+How can you use the staging area to make sure you have one commit per logical change?
+We can make preliminary save file by file until we are ready to recognize that they represent a logicalchange
